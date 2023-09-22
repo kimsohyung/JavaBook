@@ -12,7 +12,7 @@ package component;
 		public int getSize() {
 			return size;
 		}
-		
+		//
 		public void setbigsize(int pbigsize) {
 			bigsize = (pbigsize)*2;
 		}
